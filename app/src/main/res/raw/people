@@ -1,0 +1,12 @@
+<human>
+    <people id="1">
+        <name>亚当</name>
+        <sex>Y</sex>
+        <age>20</age>
+    </people>
+    <people id="2">
+        <name>夏娃</name>
+        <sex>N</sex>
+        <age>18</age>
+    </people>
+</human>
