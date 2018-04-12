@@ -24,7 +24,7 @@ public class MainActivity12 extends AppCompatActivity
     public void onClick_add(View view)
     {
         Person person = new Person();
-        person.setName("名字");
+        person.setName("名字1");
         person.setAddress("地址");
         person.save(new SaveListener<String>()
         {
