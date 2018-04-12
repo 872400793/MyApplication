@@ -25,7 +25,7 @@ public class MainActivity12 extends AppCompatActivity
     {
         Person person = new Person();
         person.setName("名字1");
-        person.setAddress("地址");
+        person.setAddress("地址1");
         person.save(new SaveListener<String>()
         {
             @Override
